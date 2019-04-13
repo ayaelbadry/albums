@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import {View} from 'react-native';
 import axios from 'axios';
 import AlbumDetail from './albumDetail';
+
 //import console = require('console');
  
 class AlbumList extends Component{
