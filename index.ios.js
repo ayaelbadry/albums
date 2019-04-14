@@ -8,9 +8,7 @@ import AlbumList from './src/components/albumList';
 const App = () => {
     return(
     <View style={ {
-        flex: 1,
-        justifyContent: 'flex-start',
-        alignContent: 'flex-start'
+        flex: 1
     }}>
           <Header textApp="Albums"/>
           <AlbumList />
